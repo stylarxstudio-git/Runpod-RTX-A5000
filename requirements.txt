@@ -1,0 +1,8 @@
+﻿runpod>=1.0.0
+torch
+torchvision
+transformers
+accelerate
+pillow
+requests
+timm
